@@ -1,3 +1,5 @@
+# Application can be use to teach how intruments sound
+
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
